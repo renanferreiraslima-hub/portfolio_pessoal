@@ -80,7 +80,7 @@ Para executar o projeto em ambiente local, siga os passos abaixo.
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/rafaelq80/portfolio_tjs13.git
+   git clone https://github.com/renanferreiraslima-hub/portfolio_pessoal
    ```
 
 2. Acesse a pasta do projeto:
@@ -127,7 +127,7 @@ O site será aberto no navegador e todas as alterações poderão ser visualizad
 
 Este site está disponível publicamente através do **GitHub Pages**. Você pode acessar a versão online pelo link abaixo:
 
-🔗 https://github.com/renanferreiraslima-hub/blogpessoal_nest
+🔗 https://github.com/renanferreiraslima-hub/portfolio_pessoal
 
 ------
 
